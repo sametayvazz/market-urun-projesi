@@ -1,0 +1,20 @@
+C:\Users\cemay\OneDrive\Masaüstü\proje ödevi\proje ödevi\bin\Debug\proje ödevi.exe.config
+C:\Users\cemay\OneDrive\Masaüstü\proje ödevi\proje ödevi\bin\Debug\proje ödevi.exe
+C:\Users\cemay\OneDrive\Masaüstü\proje ödevi\proje ödevi\bin\Debug\proje ödevi.pdb
+C:\Users\cemay\OneDrive\Masaüstü\proje ödevi\proje ödevi\obj\Debug\proje ödevi.csprojAssemblyReference.cache
+C:\Users\cemay\OneDrive\Masaüstü\proje ödevi\proje ödevi\obj\Debug\proje_ödevi.Form1.resources
+C:\Users\cemay\OneDrive\Masaüstü\proje ödevi\proje ödevi\obj\Debug\proje_ödevi.Properties.Resources.resources
+C:\Users\cemay\OneDrive\Masaüstü\proje ödevi\proje ödevi\obj\Debug\proje ödevi.csproj.GenerateResource.cache
+C:\Users\cemay\OneDrive\Masaüstü\proje ödevi\proje ödevi\obj\Debug\proje ödevi.csproj.CoreCompileInputs.cache
+C:\Users\cemay\OneDrive\Masaüstü\proje ödevi\proje ödevi\obj\Debug\proje ödevi.exe
+C:\Users\cemay\OneDrive\Masaüstü\proje ödevi\proje ödevi\obj\Debug\proje ödevi.pdb
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\proje ödevi\proje ödevi\obj\Debug\proje ödevi.csprojAssemblyReference.cache
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\proje ödevi\proje ödevi\obj\Debug\proje_ödevi.Form1.resources
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\proje ödevi\proje ödevi\obj\Debug\proje_ödevi.Properties.Resources.resources
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\proje ödevi\proje ödevi\obj\Debug\proje ödevi.csproj.GenerateResource.cache
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\proje ödevi\proje ödevi\obj\Debug\proje ödevi.csproj.CoreCompileInputs.cache
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\proje ödevi\proje ödevi\obj\Debug\proje ödevi.exe
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\proje ödevi\proje ödevi\obj\Debug\proje ödevi.pdb
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\proje ödevi\proje ödevi\bin\Debug\proje ödevi.exe.config
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\proje ödevi\proje ödevi\bin\Debug\proje ödevi.exe
+C:\Users\cemay\OneDrive\Masaüstü\dersler\veri yapıları\proje ödevi\proje ödevi\bin\Debug\proje ödevi.pdb
